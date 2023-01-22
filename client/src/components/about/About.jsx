@@ -32,7 +32,7 @@ const About = () => {
                     I am MERN Stack Developer.<br />
                     My skills include HTML/CSS, React.js, MongoDb and NodeJs. I actively seek out for new technologies that require me to work outside my comfort zone and knowledge set, and learn on the go.
                     <Box component="span" style={{ marginLeft: 5 }}>
-                        <Link href="https://github.com/zaidjamal9" color="inherit" target="_blank"><GitHub /></Link>
+                        <Link href="https://github.com/Zaidjamal11" color="inherit" target="_blank"><GitHub /></Link>
                     </Box>
                 </Text>
                 <Text variant="h5">
