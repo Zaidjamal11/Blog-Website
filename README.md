@@ -1,5 +1,5 @@
 
-# MERN Blog WWebsite
+# MERN Blog Website
 
 This is a full-stack blogging application built using the MERN stack (MongoDB, Express.js, React.js, and Node.js). The application allows users to create, upload, and manage their own blogs. Users can also comment on posts and upload images to enhance their blog posts.
 
@@ -29,8 +29,11 @@ This is a full-stack blogging application built using the MERN stack (MongoDB, E
 ## Technologies Used
 
 Frontend: React.js & Material-UI
+
 Backend: Node.js & Express.js
+
 Database: MongoDB
+
 Authentication: JWT
 
 ## Installation and Setup
